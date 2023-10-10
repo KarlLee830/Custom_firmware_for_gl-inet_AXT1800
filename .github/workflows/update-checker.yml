@@ -12,7 +12,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/gl-inet/gl-infra-builder.git
+  REPO_URL: https://gitcode.net/qq_33830700/gl-infra-builder.git
   REPO_BRANCH: main
 
 on:
